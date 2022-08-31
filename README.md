@@ -31,6 +31,10 @@ Take note of the various variables and their data types. Write a brief summary i
 * Its data type
 * and example values you can assign them.
 
+//variable name = tickets;
+variable type = string;
+you can assign any characters to the string within the quotation marks
+
 Next give TWO example variable names and TWO example variable assignments that are *WRONG* and explain why.
 * Hint: your IDE can help you discover these!
 
